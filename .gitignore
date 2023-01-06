@@ -1,2 +1,3 @@
 credentials.yml
 .ipynb_checkpoints/
+data/raw.feather
